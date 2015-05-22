@@ -1,0 +1,7 @@
+{
+    "name": "node-echo",
+	"scripts": {
+    "start": "node ./bin/node-echo"
+	}
+    "main": "./lib/echo.js"
+}
